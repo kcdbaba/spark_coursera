@@ -1,3 +1,6 @@
+.DS_Store
 .idea
 target
-wikipedia/src/main/resources/wikipedia/wikipedia.dat
+derby.log
+metastore_db/
+*/src/main/resources/
